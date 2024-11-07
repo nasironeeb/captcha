@@ -1,2 +1,6 @@
 .venv/
+__pycache__/
 data/
+brouillon/
+brouillon_first_model.ipynb
+brouillon.py
