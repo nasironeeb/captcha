@@ -52,4 +52,9 @@ The `CaptchaModel` is a convolutional neural network (CNN) combined with fully c
 
  If you want to try it out, you can use the following link: https://www.kaggle.com/datasets/nasironeeb/captcha-dataset-6-character/data to get the data
 
+the file model_full_1.pth is the model after training for 20 epochs with 0.001 learning rate and 0.8 dropout.
+the file model_full_2.pth is the model after training for 20 epochs with 0.001 learning rate and 0.2 dropout.
+the file model_full_3.pth is the model after training for 20 epochs with 0.001 learning rate and 0.5 dropout.
+the file model_full_4.pth is the model after training for 40 epochs with 0.001 learning rate and 0.8 dropout.
+The best model is the model_full_4.pth
 
